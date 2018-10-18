@@ -40,7 +40,9 @@ You are able to see hidden salespeople (Ones who might have been let go for one 
 The other two sites prevented this from occuring by redirecting the user to another page when they were not logged in as an admin and attempted to view the hidden users.
 <img src='RedVulnerability1.gif' width=800>
 
-Vulnerability #2: __________________
+Vulnerability #2: CSRF
+Using the CSRF token taken from the form element you can update the values on the site without being logged in
+<img src="RedVulnerability2.gif" width=800>
 
 
 ## Notes
