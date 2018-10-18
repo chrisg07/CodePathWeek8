@@ -38,7 +38,7 @@ Feedback form doesn't sanitize HTML elements
 Vulnerability #1: IDOR
 You are able to see hidden salespeople (Ones who might have been let go for one reason or another...)
 The other two sites prevented this from occuring by redirecting the user to another page when they were not logged in as an admin and attempted to view the hidden users.
-<img src='RedVulnerability1' width=800>
+<img src='RedVulnerability1.gif' width=800>
 
 Vulnerability #2: __________________
 
