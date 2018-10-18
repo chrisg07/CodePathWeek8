@@ -28,7 +28,9 @@ Vulnerability #1: Username Enumeration <br>
 When a valid username is entered the error that is displayed is in bold. When a username that is not valid is entered the error that is displayed is not in bold.
 <img src="GreenVulnerability1.gif" width=800>
 
-Vulnerability #2: __________________
+Vulnerability #2: XSS 
+Feedback form doesn't sanitize HTML elements
+<img src=GreenVulnerability2.gif" width=800>
 
 
 ## Red
