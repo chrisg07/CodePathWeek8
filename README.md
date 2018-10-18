@@ -30,7 +30,7 @@ When a valid username is entered the error that is displayed is in bold. When a 
 
 Vulnerability #2: XSS 
 Feedback form doesn't sanitize HTML elements
-<img src=GreenVulnerability2.gif" width=800>
+<img src="GreenVulnerability2.gif" width=800>
 
 
 ## Red
