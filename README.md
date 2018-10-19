@@ -20,7 +20,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: Session Hijacking/Fixation
 <img src="BlueVulnerability1.gif" width=800>
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection
+<img src='BlueVulnerability2.gif' width=800>
 
 
 ## Green
